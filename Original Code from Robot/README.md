@@ -1,2 +1,2 @@
 DO NOT MODIFY
-This folder contained the original codeS from the robot. 
+This folder contained the original codes from the robot. 
